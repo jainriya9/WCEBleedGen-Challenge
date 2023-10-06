@@ -36,7 +36,7 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Model Evaluation
 
-!page(Evaluation_Metrices.png)
+[!page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/e3960ed9672b089682ebfdd390510a6e07e1323d/Evaluation_Metrices.png)
 
 
 
