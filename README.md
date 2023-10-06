@@ -32,6 +32,8 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Excel sheet
 
+![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/35a8dc144b49e435ccba2ba8e045af2a8a3696dc/excelimg.png)
+
 
 
 ## Model Evaluation
