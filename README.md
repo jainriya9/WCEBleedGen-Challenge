@@ -68,8 +68,8 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 ## Excel sheet
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg.png" alt="Image 1" width="450" height="600">
-  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg2.png" alt="Image 1" width="450" height="600">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg.png" alt="Image 1" width="300" height="400">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg2.png" alt="Image 1" width="300" height="400">
 
   </div>
 
