@@ -12,6 +12,8 @@ The repository consists of the Machine Learning Model using Computer Vision to d
 TRAINING PHASE: In this phase, the training dataset is divided into training and validation sets. The model capable of classifying frames and detecting bleeding regions is developed. The model, its weights, and relevant files are stored, and its performance is evaluated using metrics for both classification and detection. Evaluation metrics for Classification- Accuracy, Recall, F1-Score and evaluation metrics for Detection- Average Precision, Mean-Average Precision, Intersection over Union (IoU). An interpretability plot is generated to understand the model's decision-making.
 TESTING PHASE: The model created using training dataset is applied on testing dataset 1 and 2 to predict the frames in them. Evaluation of the model is done for both classification and detection as done for when training data was used. An interpretability plot is generated to gain insights into the model's performance on unseen data. 
 
+![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/e3960ed9672b089682ebfdd390510a6e07e1323d/Evaluation_Metrices.png)
+
 ### Key Features
 
  
@@ -21,6 +23,8 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 
 ## Usage
+
+## Best Images of Test Dataset and Test Dataset 2
 
 
 
@@ -48,7 +52,7 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Model Evaluation
 
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/e3960ed9672b089682ebfdd390510a6e07e1323d/Evaluation_Metrices.png)
+
 
 
 
