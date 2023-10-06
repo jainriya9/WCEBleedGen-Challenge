@@ -36,7 +36,7 @@ TESTING PHASE: The model created using training dataset is applied on testing da
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/2f2283ce410aafb49ef0cc413435a5ec0423ee30/images/bbox_A0011.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fecc6b9600de863e0028bd62bc59d305aafbfb11/images/bbox_A0016.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/2de25a2453d920603a6311e6168105c4ac6ccb92/images/bbox_A0031.png" alt="Image 2" width="250" height="250">
-  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/9877319a6943256df85eda9661f765613043b8cb/images/bbox_A0028.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/ffc8e2ab673b852bb45ac75ac6197f3d6e4d665e/images/bbox_A0042.png" alt="Image 2" width="250" height="250">
   
 </div>
 
