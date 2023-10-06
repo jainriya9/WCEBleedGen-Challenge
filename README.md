@@ -62,6 +62,14 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
   </div>
 
+## Motivation behind the Project
+
+## Contributing
+Contributions are welcome!! If you have any suggestions, improvements or bug fixes, feel free to open an issue or submit a pull request. 
+
+## License
+Made by Team- MedTech Marvels
+
 
 
 
