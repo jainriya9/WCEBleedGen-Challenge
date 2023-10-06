@@ -26,38 +26,19 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Best Images of Test Dataset and Test Dataset 2
 
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/cdd2b511710bdb31a26344401918343677a88493/BestImages/best1.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/4f7b27dde47fea2857a3d48ecce38ce6d8ffab2b/BestImages/best2.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/50f381eb0d5a1a384be78ae8f05fbd13217955ad/BestImages/best3.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/a6c5bb69d162307edc3d5c4d7bc3174fe8b4a54a/BestImages/best4.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/8ebb9084c03f8edf925473cf3871cdcd41e414a2/BestImages/best5.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/6962664cf1d77f39b0eef3791c4ebefc5364fa37/BestImages/best6.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/00d87d5849eea07a9c419db5b3f33557a74605c3/BestImages/best7.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/efb61bd973117125b3b7ada3409a51fd06df6284/BestImages/best8.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/6ed8da86d74e69e43fb4f02c3435a27039d06ed1/BestImages/best9.png)
-
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/0991e8f01d55f2d30ff744de428fbd5431c19514/BestImages/best10.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/cdd2b511710bdb31a26344401918343677a88493/BestImages/best1.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/4f7b27dde47fea2857a3d48ecce38ce6d8ffab2b/BestImages/best2.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/50f381eb0d5a1a384be78ae8f05fbd13217955ad/BestImages/best3.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/a6c5bb69d162307edc3d5c4d7bc3174fe8b4a54a/BestImages/best4.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/8ebb9084c03f8edf925473cf3871cdcd41e414a2/BestImages/best5.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/6962664cf1d77f39b0eef3791c4ebefc5364fa37/BestImages/best6.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/00d87d5849eea07a9c419db5b3f33557a74605c3/BestImages/best7.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/efb61bd973117125b3b7ada3409a51fd06df6284/BestImages/best8.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/6ed8da86d74e69e43fb4f02c3435a27039d06ed1/BestImages/best9.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/0991e8f01d55f2d30ff744de428fbd5431c19514/BestImages/best10.png" alt="Image 2" width="250" height="250">
+  
+</div>
 
 ## Excel sheet
 
