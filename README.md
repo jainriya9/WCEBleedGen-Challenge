@@ -19,17 +19,6 @@ TESTING PHASE: The model created using training dataset is applied on testing da
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/Evaluation_Metrices.png" alt="Page">
 </p>
 
-
-### Key Features
-
- 
-
-## Data Samples
-
-
-
-## Usage
-
 ## Best Images of Validation Dataset
 
 <div style="display: flex; justify-content: space-between;">
