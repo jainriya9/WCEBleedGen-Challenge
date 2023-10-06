@@ -12,7 +12,13 @@ The repository consists of the Machine Learning Model using Computer Vision to d
 TRAINING PHASE: In this phase, the training dataset is divided into training and validation sets. The model capable of classifying frames and detecting bleeding regions is developed. The model, its weights, and relevant files are stored, and its performance is evaluated using metrics for both classification and detection. Evaluation metrics for Classification- Accuracy, Recall, F1-Score and evaluation metrics for Detection- Average Precision, Mean-Average Precision, Intersection over Union (IoU). An interpretability plot is generated to understand the model's decision-making.
 TESTING PHASE: The model created using training dataset is applied on testing dataset 1 and 2 to predict the frames in them. Evaluation of the model is done for both classification and detection as done for when training data was used. An interpretability plot is generated to gain insights into the model's performance on unseen data. 
 
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/e3960ed9672b089682ebfdd390510a6e07e1323d/Evaluation_Metrices.png)
+
+## Model Evaluation
+
+<p align="center">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/Evaluation_Metrices.png" alt="Page">
+</p>
+
 
 ### Key Features
 
@@ -38,6 +44,8 @@ TESTING PHASE: The model created using training dataset is applied on testing da
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0049.png" alt="Image 1" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/10c5a3925b15fd9e97dde0f7be76d35778034269/images/bbox_A0001.png" alt="Image 1" width="250" height="250">
 
+  </div>
+
 
 
 
@@ -59,11 +67,14 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Excel sheet
 
-![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/35a8dc144b49e435ccba2ba8e045af2a8a3696dc/excelimg.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg.png" alt="Image 1" width="450" height="600">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/d9e4452caa3072871bfb904251ad253e9f88a7f5/excelimages/excelimg2.png" alt="Image 1" width="450" height="600">
+
+  </div>
 
 
 
-## Model Evaluation
 
 
 
