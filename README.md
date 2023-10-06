@@ -24,7 +24,20 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ## Usage
 
-## Best Images of Test Dataset and Test Dataset 2
+## Best Images of Validation Dataset
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0000.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0003.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0005.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0008.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0009.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0025.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0030.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0046.png" alt="Image 1" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fc8e176e7457c1e8709d029ca8ad21775aee4286/images/A0049.png" alt="Image 1" width="250" height="250">
+  <img src="" alt="Image 1" width="250" height="250">
+
 
 
 
