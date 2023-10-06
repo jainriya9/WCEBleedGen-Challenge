@@ -32,6 +32,10 @@ TESTING PHASE: The model created using training dataset is applied on testing da
 
 ![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/50f381eb0d5a1a384be78ae8f05fbd13217955ad/BestImages/best3.png)
 
+![page](https://github.com/jainriya9/WCEBleedGen-Challenge/blob/a6c5bb69d162307edc3d5c4d7bc3174fe8b4a54a/BestImages/best4.png)
+
+
+
 
 
 
