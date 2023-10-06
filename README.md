@@ -34,7 +34,7 @@ TESTING PHASE: The model created using training dataset is applied on testing da
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/8ebb9084c03f8edf925473cf3871cdcd41e414a2/BestImages/best5.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/700733a4b1a6943c04be78a9a014b3b1a85c282c/images/bbox_A0010.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/2f2283ce410aafb49ef0cc413435a5ec0423ee30/images/bbox_A0011.png" alt="Image 2" width="250" height="250">
-  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/efb61bd973117125b3b7ada3409a51fd06df6284/BestImages/best8.png" alt="Image 2" width="250" height="250">
+  <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/fecc6b9600de863e0028bd62bc59d305aafbfb11/images/bbox_A0016.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/6ed8da86d74e69e43fb4f02c3435a27039d06ed1/BestImages/best9.png" alt="Image 2" width="250" height="250">
   <img src="https://github.com/jainriya9/WCEBleedGen-Challenge/blob/0991e8f01d55f2d30ff744de428fbd5431c19514/BestImages/best10.png" alt="Image 2" width="250" height="250">
   
