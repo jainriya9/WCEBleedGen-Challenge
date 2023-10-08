@@ -3,14 +3,19 @@ The objective of Auto-WCEBleedGen-Challenge is to provide opportunity for the de
 
 # Machine Learning Dataset for Computer Vision
 The dataset for the Auto-WCEBleedGen-Challenge consists of Training Dataset, Test Datset 1 and Test Dataset 2.
+
 Training Dataset: It consists of Annotations and Images for both Bleeding and Non-Bleeding frames along with Bounding boxes for the Bleeding frames. The Training Data is divided in 80:20 as training and validation dataset.
-Testing Dataset: -Test Dataset 1 contains 49 frames collected randomly from seven different patient's data.
-                 -Test Dataset 2: contains 515 frames collected from twenty-three different patient's data. 
+
+
+Testing Dataset:Test Dataset 1 contains 49 frames collected randomly from seven different patient's data.
+                Test Dataset 2 contains 515 frames collected from twenty-three different patient's data. 
                  
 ## Overview
-The repository consists of the Machine Learning Model using Computer Vision to detect detect and classify the Bleeding and Non-Bleeding frames and detect the bleeding region from the provided dataset. The model is built using Kaggle. 
-TRAINING PHASE: In this phase, the training dataset is divided into training and validation sets. The model capable of classifying frames and detecting bleeding regions is developed. The model, its weights, and relevant files are stored, and its performance is evaluated using metrics for both classification and detection. Evaluation metrics for Classification- Accuracy, Recall, F1-Score and evaluation metrics for Detection- Average Precision, Mean-Average Precision, Intersection over Union (IoU). An interpretability plot is generated to understand the model's decision-making.
-TESTING PHASE: The model created using training dataset is applied on testing dataset 1 and 2 to predict the frames in them. Evaluation of the model is done for both classification and detection as done for when training data was used. An interpretability plot is generated to gain insights into the model's performance on unseen data. 
+The repository consists of the Machine Learning Model using Computer Vision to detect and classify the Bleeding and Non-Bleeding frames and detect the bleeding region from the provided dataset.
+
+Training Phase: In this phase, the training dataset is divided into training and validation sets. The model capable of classifying frames and detecting bleeding regions is developed. The model performance is evaluated using metrics for both classification and detection.
+
+Testing Phase: The model created using training dataset is applied on testing dataset 1 and 2 to predict the frames in them. Evaluation of the model is done for both classification and detection as done for when training data was used.
 
 
 ## Model Evaluation
@@ -63,6 +68,7 @@ TESTING PHASE: The model created using training dataset is applied on testing da
   </div>
 
 ## Motivation behind the Project
+This project is fueled by the urgent necessity for precise and swift bleeding detection in medical video frames, specifically within the realm of gastrointestinal (GI) bleeding. GI bleeding represents a critical medical concern requiring prompt identification and intervention. Conventional practices involve laboriously reviewing extensive video footage for bleeding indicators, a process susceptible to errors and time constraints. To overcome these hurdles, this project leverages machine learning and computer vision to deliver an automated and dependable solution.
 
 ## Contributing
 Contributions are welcome!! If you have any suggestions, improvements or bug fixes, feel free to open an issue or submit a pull request. 
